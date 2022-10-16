@@ -1,0 +1,21 @@
+Sn.No:,User_name,Repository name,Repository url
+1,ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh
+2,junegunn,fzf,https://github.com/junegunn/fzf
+3,sharkdp,bat,https://github.com/sharkdp/bat
+4,sherlock-project,sherlock,https://github.com/sherlock-project/sherlock
+5,google,zx,https://github.com/google/zx
+6,wagoodman,dive,https://github.com/wagoodman/dive
+7,BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep
+8,chubin,cheat.sh,https://github.com/chubin/cheat.sh
+9,cli,cli,https://github.com/cli/cli
+10,jesseduffield,lazygit,https://github.com/jesseduffield/lazygit
+11,spf13,cobra,https://github.com/spf13/cobra
+12,angular,angular-cli,https://github.com/angular/angular-cli
+13,n8n-io,n8n,https://github.com/n8n-io/n8n
+14,alebcay,awesome-shell,https://github.com/alebcay/awesome-shell
+15,sharkdp,fd,https://github.com/sharkdp/fd
+16,ibraheemdev,modern-unix,https://github.com/ibraheemdev/modern-unix
+17,httpie,httpie,https://github.com/httpie/httpie
+18,google,python-fire,https://github.com/google/python-fire
+19,tqdm,tqdm,https://github.com/tqdm/tqdm
+20,vercel,pkg,https://github.com/vercel/pkg

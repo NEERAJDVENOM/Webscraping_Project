@@ -1,0 +1,21 @@
+Sn.No:,User_name,Repository name,Repository url
+1,bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises
+2,microsoft,recommenders,https://github.com/microsoft/recommenders
+3,pulumi,pulumi,https://github.com/pulumi/pulumi
+4,ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes
+5,Azure,azure-quickstart-templates,https://github.com/Azure/azure-quickstart-templates
+6,mozilla,sops,https://github.com/mozilla/sops
+7,caprover,caprover,https://github.com/caprover/caprover
+8,microsoft,computervision-recipes,https://github.com/microsoft/computervision-recipes
+9,google,go-cloud,https://github.com/google/go-cloud
+10,infracost,infracost,https://github.com/infracost/infracost
+11,microsoft,azuredatastudio,https://github.com/microsoft/azuredatastudio
+12,node-formidable,formidable,https://github.com/node-formidable/formidable
+13,midwayjs,midway,https://github.com/midwayjs/midway
+14,thangchung,clean-code-dotnet,https://github.com/thangchung/clean-code-dotnet
+15,aquasecurity,tfsec,https://github.com/aquasecurity/tfsec
+16,budtmo,docker-android,https://github.com/budtmo/docker-android
+17,bridgecrewio,checkov,https://github.com/bridgecrewio/checkov
+18,nccgroup,ScoutSuite,https://github.com/nccgroup/ScoutSuite
+19,cloud-custodian,cloud-custodian,https://github.com/cloud-custodian/cloud-custodian
+20,Azure,azure-sdk-for-net,https://github.com/Azure/azure-sdk-for-net

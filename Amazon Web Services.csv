@@ -1,0 +1,21 @@
+Sn.No:,User_name,Repository name,Repository url
+1,localstack,localstack,https://github.com/localstack/localstack
+2,serverless,serverless,https://github.com/serverless/serverless
+3,bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises
+4,donnemartin,data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks
+5,pulumi,pulumi,https://github.com/pulumi/pulumi
+6,ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes
+7,kubernetes-sigs,kubespray,https://github.com/kubernetes-sigs/kubespray
+8,aws,aws-cli,https://github.com/aws/aws-cli
+9,mozilla,sops,https://github.com/mozilla/sops
+10,donnemartin,awesome-aws,https://github.com/donnemartin/awesome-aws
+11,apereo,cas,https://github.com/apereo/cas
+12,aws,aws-cdk,https://github.com/aws/aws-cdk
+13,caprover,caprover,https://github.com/caprover/caprover
+14,aws,chalice,https://github.com/aws/chalice
+15,serverless-stack,sst,https://github.com/serverless-stack/sst
+16,aws-amplify,amplify-js,https://github.com/aws-amplify/amplify-js
+17,aws,serverless-application-model,https://github.com/aws/serverless-application-model
+18,angristan,openvpn-install,https://github.com/angristan/openvpn-install
+19,GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer
+20,apex,up,https://github.com/apex/up

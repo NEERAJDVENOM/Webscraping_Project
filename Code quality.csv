@@ -1,0 +1,21 @@
+Sn.No:,User_name,Repository name,Repository url
+1,realm,SwiftLint,https://github.com/realm/SwiftLint
+2,facebook,infer,https://github.com/facebook/infer
+3,analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis
+4,Kristories,awesome-guidelines,https://github.com/Kristories/awesome-guidelines
+5,checkstyle,checkstyle,https://github.com/checkstyle/checkstyle
+6,SonarSource,sonarqube,https://github.com/SonarSource/sonarqube
+7,facebook,pyre-check,https://github.com/facebook/pyre-check
+8,reviewdog,reviewdog,https://github.com/reviewdog/reviewdog
+9,detekt,detekt,https://github.com/detekt/detekt
+10,simplecov-ruby,simplecov,https://github.com/simplecov-ruby/simplecov
+11,import-js,eslint-plugin-import,https://github.com/import-js/eslint-plugin-import
+12,PyCQA,pylint,https://github.com/PyCQA/pylint
+13,pmd,pmd,https://github.com/pmd/pmd
+14,phpro,grumphp,https://github.com/phpro/grumphp
+15,trekhleb,state-of-the-art-shitcode,https://github.com/trekhleb/state-of-the-art-shitcode
+16,htmlhint,HTMLHint,https://github.com/htmlhint/HTMLHint
+17,kucherenko,jscpd,https://github.com/kucherenko/jscpd
+18,codeclimate,codeclimate,https://github.com/codeclimate/codeclimate
+19,wemake-services,wemake-python-styleguide,https://github.com/wemake-services/wemake-python-styleguide
+20,uber,piranha,https://github.com/uber/piranha
